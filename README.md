@@ -12,6 +12,7 @@ for Linux: download ListTracker_linux_x86_64_1.0.zip
 unzip the files into a folder of your choosing and then run the .exe if you're on windows or
 run the .86_64 file for linux. I don't have an apple computer to attempt to make this compatible
 with Mac.
+
 ## Add your files
 
 - [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
