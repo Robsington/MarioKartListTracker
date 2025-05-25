@@ -5,6 +5,13 @@ Unity Version 2019.4.36f1
 
 able to be built via the Unity builder. able to build for both windows and linux. screen settings are usually going to be messed up so it's better to set your screen settings to horizontal 1080x1920.
 
+download latest [Build](https://github.com/Robsington/MarioKartListTracker/releases/tag/Builds)
+for windows: download ListTracker_win_1.0.zip
+for Linux: download ListTracker_linux_x86_64_1.0.zip
+
+unzip the files into a folder of your choosing and then run the .exe if you're on windows or
+run the .86_64 file for linux. I don't have an apple computer to attempt to make this compatible
+with Mac.
 ## Add your files
 
 - [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
