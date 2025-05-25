@@ -3,7 +3,7 @@ Unity Version 2019.4.36f1
 
 ## Getting started
 
-able to be built via the Unity builder. able to build for both windows and linux.
+able to be built via the Unity builder. able to build for both windows and linux. screen settings are usually going to be messed up so it's better to set your screen settings to horizontal 1080x1920.
 
 ## Add your files
 
