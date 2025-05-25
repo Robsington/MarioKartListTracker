@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f6359dbcd8696d43adc9b8d4bc7e9db, type: 3}
+  m_Name: Official Kart List
+  m_EditorClassIdentifier: 
+  so_MarioKartList:
+    marioKartCups:
+    - cupName: Mushroom Cup
+      cupEmblem: {fileID: 21300000, guid: 269e2469cd43d274ba30be2ec2917c44, type: 3}
+      trackList:
+      - Mario Kart Stadium
+      - Water Park
+      - Sweet Sweet Canyon
+      - Thwomp Ruins
+    - cupName: Flower Cup
+      cupEmblem: {fileID: 21300000, guid: 9709eda2010c1704b90fae4b1b4a59e8, type: 3}
+      trackList:
+      - Mario Circuit
+      - Toad Harbor
+      - Twisted Mansion
+      - Shy Guy Falls
+    - cupName: Star Cup
+      cupEmblem: {fileID: 21300000, guid: 2e75b0025b8ebad4f840cfffd05b6b35, type: 3}
+      trackList:
+      - Sunshine Airport
+      - Dolphin Shoals
+      - Electrodrome
+      - Mount Wario
+    - cupName: Special Cup
+      cupEmblem: {fileID: 21300000, guid: bf264c50961b89a4e8c5f38cec8cdc3f, type: 3}
+      trackList:
+      - Cloudtop Cruise
+      - Bone-Dry Dunes
+      - Bowser's Castle
+      - Rainbow Road
+    - cupName: Shell Cup
+      cupEmblem: {fileID: 21300000, guid: 8edc03d533fee5949b31bc724f6e9284, type: 3}
+      trackList:
+      - Moo Moo Meadows
+      - Mario Circuit
+      - Cheep Cheep Beach
+      - Toad's Turnpike
+    - cupName: Banana Cup
+      cupEmblem: {fileID: 21300000, guid: 052c350ecaf22974d9956c5267893bae, type: 3}
+      trackList:
+      - Dry Dry Desert
+      - Donut Plains 3
+      - Royal Raceway
+      - DK Jungle
+    - cupName: Leaf Cup
+      cupEmblem: {fileID: 21300000, guid: f1e7fc541420725468aee4cc36c5d41e, type: 3}
+      trackList:
+      - Wario Stadium
+      - Sherbet Land
+      - Music Park
+      - Yoshi Valley
+    - cupName: Lightning Cup
+      cupEmblem: {fileID: 21300000, guid: 07788d96377db0c4884e6c6983fcfb2a, type: 3}
+      trackList:
+      - Tick-Tock Clock
+      - Piranha Plant Slide
+      - Grumble Volcano
+      - Rainbow Road
+    - cupName: Egg Cup
+      cupEmblem: {fileID: 21300000, guid: b6505e2d2c7bd5d4ab6f9908616e07a6, type: 3}
+      trackList:
+      - Yoshi Circuit
+      - Excitebike Arena
+      - Dragon Driftway
+      - Mute City
+    - cupName: Triforce Cup
+      cupEmblem: {fileID: 21300000, guid: 19391cf6f6e269e4d88f632aae3cda2d, type: 3}
+      trackList:
+      - Wario's Gold Mine
+      - Rainbow Road
+      - Ice Ice Outpost
+      - Hyrule Circuit
+    - cupName: Crossing Cup
+      cupEmblem: {fileID: 21300000, guid: 63ca22f70131f764c9272a55a8e124f9, type: 3}
+      trackList:
+      - Baby Park
+      - Cheese Land
+      - Wild Woods
+      - Animal Crossing
+    - cupName: Bell Cup
+      cupEmblem: {fileID: 21300000, guid: f684e52e1eb581549b192aa72a647164, type: 3}
+      trackList:
+      - Neo Bowser City
+      - Ribbon Road
+      - Super Bell Subway
+      - Big Blue
+    - cupName: Golden Dash Cup
+      cupEmblem: {fileID: 21300000, guid: 520a63f2bbe299b4eaa9ee6c5e8153db, type: 3}
+      trackList:
+      - Paris Promenade
+      - Toad Circuit
+      - Choco Mountain
+      - Coconut Mall
+    - cupName: Lucky Cat Cup
+      cupEmblem: {fileID: 21300000, guid: ddc167ac67cf13b4eb2ad6414ab521d6, type: 3}
+      trackList:
+      - Tokyo Blur
+      - Shroom Ridge
+      - Sky Garden
+      - Ninja Hideaway
+    - cupName: Turnip Cup
+      cupEmblem: {fileID: 21300000, guid: 96ae838dda5ce664298aa0603620c314, type: 3}
+      trackList:
+      - New York Minute
+      - Mario Circuit 3
+      - Kalimari Desert
+      - Waluigi Pinball
+    - cupName: Propeller Cup
+      cupEmblem: {fileID: 21300000, guid: ae0cc434355f6b84687efe409761b7bb, type: 3}
+      trackList:
+      - Sydney Sprint
+      - Snow Land
+      - Mushroom Gorge
+      - Sky-High Sunday
+    - cupName: Rock Cup
+      cupEmblem: {fileID: 21300000, guid: 197efcc3e1390d246b1cd6787fb637bb, type: 3}
+      trackList:
+      - London Loop
+      - Boo Lake
+      - Rock Rock Mountain
+      - Maple Treeway
+    - cupName: Moon Cup
+      cupEmblem: {fileID: 21300000, guid: 66eafe0412c29f749a56d9db63f3cc2d, type: 3}
+      trackList:
+      - Berlin Byways
+      - Peach Gardens
+      - Merry Mountain
+      - Rainbow Road
+    - cupName: Fruit Cup
+      cupEmblem: {fileID: 21300000, guid: 86bfaf5fd41cb614b85d9b5e66918119, type: 3}
+      trackList:
+      - Amsterdam Drift
+      - Riverside Park
+      - DK Summit
+      - Yoshi's Island
+    - cupName: Boomerang Cup
+      cupEmblem: {fileID: 21300000, guid: c869fc11670ab3840b4f029544c964e7, type: 3}
+      trackList:
+      - Bangkok Rush
+      - Mario Circuit
+      - Waluigi Stadium
+      - Singapore Speedway
+    - cupName: Feather Cup
+      cupEmblem: {fileID: 21300000, guid: 25558906dc9744f4aafc5be444b3b7d4, type: 3}
+      trackList:
+      - Athens Dash
+      - Daisy Cruiser
+      - Moonview Highway
+      - Squeaky Clean Sprint
+    - cupName: Cherry Cup
+      cupEmblem: {fileID: 21300000, guid: 2a5764c3e6e11974f9dcf910aee88940, type: 3}
+      trackList:
+      - Los Angeles Laps
+      - Sunset Wilds
+      - Koopa Cape
+      - Vancouver Velocity
+    - cupName: Acorn Cup
+      cupEmblem: {fileID: 21300000, guid: 051e639ee8624e249b070e581ea295fe, type: 3}
+      trackList:
+      - Rome Avanti
+      - DK Mountain
+      - Daisy Circuit
+      - Piranha Plant Cove
+    - cupName: Spiny Cup
+      cupEmblem: {fileID: 21300000, guid: 4cb38d2a230c507429df7fa84ef0fdf2, type: 3}
+      trackList:
+      - Madrid Drive
+      - Rosalina's Ice World
+      - Bowser's Castle 3
+      - Rainbow Road
