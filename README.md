@@ -2,7 +2,7 @@
 using Unity Version 2019.4.36f1
 A Dynamic Mario Kart 8 Deluxe track.
 
-#Get the latest build
+# Get the latest build
 
 download latest [Build](https://github.com/Robsington/MarioKartListTracker/releases/tag/Builds)
 
